@@ -1,0 +1,14 @@
+{
+  "name": "giftapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Mai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
